@@ -12,6 +12,8 @@ Este repositório contém a estrutura do banco de dados para uma rede social, in
 ├── README.md             # Documentação do projeto
 ```
 
+![Diagrama ER](docs/diagrama.png)
+
 ## 📌 Descrição do Projeto
 O objetivo deste projeto é criar um banco de dados para uma rede social, contendo as principais entidades e relacionamentos, como:
 - Usuários
@@ -31,8 +33,9 @@ O objetivo deste projeto é criar um banco de dados para uma rede social, conten
    psql -U queziasouzaa -d social_network -f sql/social_network.sql
    ```
 
-## 📜 Licença
+## 📝 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para contribuir!
 
 ---
 📌 Criado por Quézia Souza
+
